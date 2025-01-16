@@ -144,7 +144,7 @@ if __name__ == "__main__":
         sys.exit(1)
 
     match_name = sys.argv[1]  # Match name as passed in the terminal
-    data_file = "data/final_39788.csv"  # Path to your dataset file
+    data_file = "data/matches_data.csv"  # Path to your dataset file
 
     try:
         analysis = FootballDataAnalysis(match_name, data_file)
