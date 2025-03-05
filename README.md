@@ -31,8 +31,8 @@ Ensure you have Python 3.8 or later installed.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/r4stin/LFN.git
-   cd LFN
+   git clone https://github.com/r4stin/Football-Match-Dynamics.git
+   cd Football-Match-Dynamics
    ```
 
 2. Move your data files to the `data` folder.
