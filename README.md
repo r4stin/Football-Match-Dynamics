@@ -77,7 +77,7 @@ After running the analysis, check the `outputs` folder for detailed results:
 ## Project Structure
 
 ```
-LFN/
+Football-Match-Dynamics/
 ├── data/               # Input data files
 ├── outputs/            # Analysis results
 ├── src/                # Source code
